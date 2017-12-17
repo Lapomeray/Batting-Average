@@ -8,7 +8,7 @@
  * Then it calculates the batting average for each player
  *
  * Input  - Number of times at bat for nine(9) players, Number of hits for nine(9) players.
- * Output -
+ * Output - Batting average value
  */
 
 
